@@ -32,31 +32,26 @@ CREATE TABLE user_sessions (
 
 ## 🚀 Installation
 
-### Prerequisites
-- Python 3.8+
-- MySQL Server
-- pip (Python package manager)
 
 
-### Step 2: Set Up Virtual Environment
+### Step 1: Set Up Virtual Environment
 ```bash
 python -m venv venv
 
 # Windows
 venv\Scripts\activate
 
-# Unix/MacOS
+# For MacOS
 source venv/bin/activate
 ```
 
-### Step 3: Install Dependencies
+### Step 2: Install Dependencies
 ```bash
 pip install flask mysql-connector-python
 ```
 
-### Step 4: Database Setup
-1. Install MySQL if not already installed
-2. Create database:
+### Step 3: Database Setup
+Create database:
 ```sql
 CREATE DATABASE crtvai_db;
 ```
