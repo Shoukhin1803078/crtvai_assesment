@@ -85,11 +85,13 @@ python app.py
 
 # Output from my side :
 
-I run this code from two different route to check wheather 
-<img width="1710" alt="Screenshot 2024-12-02 at 3 02 24 PM" src="https://github.com/user-attachments/assets/fbdbbb33-601a-4f1f-8d3c-7011bf358637">
-<img width="1710" alt="Screenshot 2024-12-02 at 3 02 13 PM" src="https://github.com/user-attachments/assets/3dade73b-f47b-439b-a990-37bac2500fde">
-<img width="1710" alt="Screenshot 2024-12-02 at 3 03 48 PM" src="https://github.com/user-attachments/assets/da6ef8da-c5ae-47fa-aa14-414cccfe2407">
-<img width="1710" alt="Screenshot 2024-12-02 at 3 03 07 PM" src="https://github.com/user-attachments/assets/ee20b632-174e-493d-b81d-14df35aa746f">
+
+<img width="1710" alt="Screenshot 2024-12-02 at 5 14 30 PM" src="https://github.com/user-attachments/assets/a6b79235-439a-43bb-bf45-a893a278b3c4">
+<img width="1710" alt="Screenshot 2024-12-02 at 5 14 07 PM" src="https://github.com/user-attachments/assets/b0f40d0f-3c5c-4dcf-b3fa-18e8f2cd7d0e">
+<img width="1710" alt="Screenshot 2024-12-02 at 5 13 05 PM" src="https://github.com/user-attachments/assets/66e08095-dba6-4df2-b873-b9227811f205">
+<img width="1710" alt="Screenshot 2024-12-02 at 5 11 42 PM" src="https://github.com/user-attachments/assets/d36ac52e-9d49-4e60-8776-0006c6dbebd5">
+<img width="1710" alt="Screenshot 2024-12-02 at 5 07 38 PM" src="https://github.com/user-attachments/assets/8ad92069-e8ba-45d3-be2c-fe2885b93f58">
+
 
 
 
