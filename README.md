@@ -50,6 +50,11 @@ source venv/bin/activate
 pip install flask mysql-connector-python
 ```
 
+#### Step 2.1: Install Dependencies (for requirements.txt)
+```bash
+pip install -r requirements.txt
+```
+
 ### Step 3: Database Setup
 Create database:
 ```sql
