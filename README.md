@@ -1,7 +1,6 @@
 # Flask Chatbot with MySQL Integration
 
-A Flask-based chatbot application featuring session management, persistent storage, and a web interface.
-
+Here I give an overview what I understand for this task:
 ## 📋 Overview
 
 This chatbot application demonstrates:
@@ -29,11 +28,7 @@ CREATE TABLE user_sessions (
 );
 ```
 
-### Conversation States
-1. INITIAL → Awaiting "hello"
-2. WAITING_FOR_NAME → Collecting user name
-3. WAITING_FOR_SONG → Getting favorite song
-4. COMPLETED → Conversation finished
+
 
 ## 🚀 Installation
 
@@ -42,11 +37,6 @@ CREATE TABLE user_sessions (
 - MySQL Server
 - pip (Python package manager)
 
-### Step 1: Clone Repository
-```bash
-git clone <repository-url>
-cd flask-chatbot
-```
 
 ### Step 2: Set Up Virtual Environment
 ```bash
@@ -88,62 +78,3 @@ db_config = {
 ```bash
 python app.py
 ```
-
-3. **Access Chatbot**
-- Open web browser
-- Navigate to `http://localhost:5000`
-- Enter phone number to begin chat
-
-## 💬 Usage Examples
-
-### Starting Conversation
-```
-User: hello
-Bot: What is your name?
-```
-
-### Complete Flow
-```
-User: hello
-Bot: What is your name?
-User: John
-Bot: Hello John, what is your favorite song?
-User: Bohemian Rhapsody
-Bot: Playing Bohemian Rhapsody
-```
-
-## 🔧 Troubleshooting
-
-### Common Issues:
-
-1. **Database Connection Failed**
-   - Verify MySQL is running
-   - Check credentials in db_config
-   - Ensure database exists
-
-2. **Application Won't Start**
-   - Check if port 5000 is available
-   - Verify all dependencies are installed
-   - Ensure Python version compatibility
-
-## 🔒 Security Features
-
-- SQL injection prevention
-- Input validation
-- Session isolation
-- Secure data handling
-
-## 🤝 Contributing
-
-1. Fork repository
-2. Create feature branch
-3. Commit changes
-4. Push to branch
-5. Submit pull request
-
-## 📝 License
-
-MIT License - see LICENSE file for details.
-
----
-Developed for Technical Assessment | 2024
