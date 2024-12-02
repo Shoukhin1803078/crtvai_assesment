@@ -78,3 +78,11 @@ db_config = {
 ```bash
 python app.py
 ```
+
+
+
+
+
+# Output from my side :
+
+
